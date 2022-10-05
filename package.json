@@ -24,10 +24,10 @@
   "author": "Alan Smith <a.bax.smith@gmail.com> (https://github.com/alanbsmith)",
   "license": "MIT",
   "dependencies": {
-    "lodash": "^4.17.4",
-    "polished": "^1.8.1",
+    "lodash": "^4.17.21",
+    "polished": "^3.7.2",
     "react-fontawesome": "^1.6.1",
-    "styled-components": "^2.2.2",
+    "styled-components": "^4.0.0",
     "styled-components-modifiers": "^1.0.1"
   },
   "devDependencies": {
