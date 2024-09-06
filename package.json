@@ -27,7 +27,7 @@
     "lodash": "^4.17.21",
     "polished": "^3.7.2",
     "react-fontawesome": "^1.6.1",
-    "styled-components": "^4.0.0",
+    "styled-components": "^6.1.0",
     "styled-components-modifiers": "^1.0.1"
   },
   "devDependencies": {
